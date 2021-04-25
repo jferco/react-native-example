@@ -1,12 +1,18 @@
 {
   "name": "reac-app",
-  "displayName": "reac-app",
+  "icon": "./ic_launcher.png",
+  "displayName": "react-app",
   "expo": {
     "name": "reac-app",
     "slug": "reac-app",
+    "android": {
+      "package": "com.jferco.reactexample",
+      "versionCode": 1
+    },
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   }
 }
+
