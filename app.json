@@ -1,0 +1,12 @@
+{
+  "name": "reac-app",
+  "displayName": "reac-app",
+  "expo": {
+    "name": "reac-app",
+    "slug": "reac-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
